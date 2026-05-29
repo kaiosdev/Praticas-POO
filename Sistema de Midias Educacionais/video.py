@@ -6,4 +6,4 @@ class Video(Midia):
         self.resolucao = resolucao
 
     def reproduzir(self):
-        print(f"▶️ Reproduzindo Vídeo: '{self.titulo}' em {self.resolucao}.")
+        print(f" Reproduzindo Vídeo: '{self.titulo}' em {self.resolucao}.")
